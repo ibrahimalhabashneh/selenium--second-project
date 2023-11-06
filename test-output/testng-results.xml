@@ -1,37 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+<testng-results ignored="3" total="5" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-28T12:47:47 EET" name="Default suite" finished-at="2023-10-28T12:48:27 EET" duration-ms="39745">
+  <suite started-at="2023-11-03T17:53:47 EET" name="Default suite" finished-at="2023-11-03T17:54:07 EET" duration-ms="19622">
     <groups>
     </groups>
-    <test started-at="2023-10-28T12:47:47 EET" name="Default test" finished-at="2023-10-28T12:48:27 EET" duration-ms="39745">
+    <test started-at="2023-11-03T17:53:47 EET" name="Default test" finished-at="2023-11-03T17:54:07 EET" duration-ms="19622">
       <class name="AlmosaferTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:AlmosaferTest@54afd745]" started-at="2023-10-28T12:47:47 EET" name="setup" finished-at="2023-10-28T12:47:54 EET" duration-ms="6542" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:AlmosaferTest@263f04ca]" started-at="2023-11-03T17:53:47 EET" name="setup" finished-at="2023-11-03T17:53:55 EET" duration-ms="7474" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="test()[pri:0, instance:AlmosaferTest@54afd745]" started-at="2023-10-28T12:47:54 EET" name="test" finished-at="2023-10-28T12:48:00 EET" duration-ms="6607" status="PASS">
+        <test-method signature="Ckeck()[pri:0, instance:AlmosaferTest@263f04ca]" started-at="2023-11-03T17:53:55 EET" name="Ckeck" finished-at="2023-11-03T17:54:07 EET" duration-ms="12087" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test -->
-        <test-method signature="test()[pri:0, instance:AlmosaferTest@54afd745]" started-at="2023-10-28T12:48:00 EET" name="test" finished-at="2023-10-28T12:48:07 EET" duration-ms="6720" status="PASS">
+        </test-method> <!-- Ckeck -->
+        <test-method signature="ffgg()[pri:0, instance:AlmosaferTest@263f04ca]" started-at="2023-11-03T17:54:07 EET" name="ffgg" finished-at="2023-11-03T17:54:07 EET" duration-ms="8" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test -->
-        <test-method signature="test()[pri:0, instance:AlmosaferTest@54afd745]" started-at="2023-10-28T12:48:07 EET" name="test" finished-at="2023-10-28T12:48:13 EET" duration-ms="6195" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test -->
-        <test-method signature="test()[pri:0, instance:AlmosaferTest@54afd745]" started-at="2023-10-28T12:48:13 EET" name="test" finished-at="2023-10-28T12:48:19 EET" duration-ms="6330" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test -->
-        <test-method signature="test()[pri:0, instance:AlmosaferTest@54afd745]" started-at="2023-10-28T12:48:19 EET" name="test" finished-at="2023-10-28T12:48:27 EET" duration-ms="7301" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- test -->
-        <test-method is-config="true" signature="AfterTest()[pri:0, instance:AlmosaferTest@54afd745]" started-at="2023-10-28T12:48:27 EET" name="AfterTest" finished-at="2023-10-28T12:48:27 EET" duration-ms="1" status="PASS">
+        </test-method> <!-- ffgg -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:AlmosaferTest@263f04ca]" started-at="2023-11-03T17:54:07 EET" name="AfterTest" finished-at="2023-11-03T17:54:07 EET" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterTest -->

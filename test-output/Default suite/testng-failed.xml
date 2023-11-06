@@ -5,9 +5,9 @@
     <classes>
       <class name="AlmosaferTest">
         <methods>
-          <include name="test"/>
           <include name="AfterTest"/>
           <include name="setup"/>
+          <include name="ffgg"/>
         </methods>
       </class> <!-- AlmosaferTest -->
     </classes>
